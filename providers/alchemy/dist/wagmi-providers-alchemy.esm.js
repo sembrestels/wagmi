@@ -1,0 +1,1 @@
+/home/sem/Projects/wagmi/packages/react/src/providers/alchemy.ts
